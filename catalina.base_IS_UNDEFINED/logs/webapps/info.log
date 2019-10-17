@@ -1,0 +1,6 @@
+2019-06-09 14:17:35.428 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Starting AreaDaoTest on DESKTOP-JRTU364 with PID 5508 (started by 三月 in F:\JAVA开发工具-ecp\Workspace\o2oSpringBoot)
+2019-06-09 14:17:35.457 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - No active profile set, falling back to default profiles: default
+2019-06-09 14:17:39.303 [main] INFO  com.imooc.o2o.dao.AreaDaoTest - Started AreaDaoTest in 4.147 seconds (JVM running for 5.636)
+2019-06-09 14:22:59.209 [main] INFO  com.imooc.o2o.dao.LocalAuthDaoTest - Starting LocalAuthDaoTest on DESKTOP-JRTU364 with PID 1296 (started by 三月 in F:\JAVA开发工具-ecp\Workspace\o2oSpringBoot)
+2019-06-09 14:22:59.215 [main] INFO  com.imooc.o2o.dao.LocalAuthDaoTest - No active profile set, falling back to default profiles: default
+2019-06-09 14:23:02.853 [main] INFO  com.imooc.o2o.dao.LocalAuthDaoTest - Started LocalAuthDaoTest in 3.928 seconds (JVM running for 5.098)
